@@ -1,4 +1,4 @@
-// git test branch JVA2
+// cambio de prueba git (jva with conflict)
 public class Car {
 	
 	String color;
